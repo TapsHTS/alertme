@@ -1,0 +1,26 @@
+{
+  "name": "alertme",
+  "version": "1.0.0",
+  "description": "Send any notifications to your devices. Uses the Alertzy api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapshts/alertme.git"
+  },
+  "keywords": [
+    "notification",
+    "alert"
+  ],
+  "author": "TapsHTS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapshts/alertme/issues"
+  },
+  "homepage": "https://github.com/tapshts/alertme#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
